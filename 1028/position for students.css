@@ -1,0 +1,144 @@
+body{
+
+background-color: #88F2C6;
+}
+
+
+.wrap{
+
+width: 70%;
+position: relative;
+margin: auto;
+
+
+}
+
+.circle1{
+box-sizing: border-box;/*避免變形*/
+width: 220px;/*固定寬度*/
+height: 220px;/*固定高度*/
+border-radius: 50%;/*變圓形*/
+
+text-align: center;/*文字置中*/
+padding-top: 60px;/*上方留白*/
+font-size: 0.5em;/*字體大小*/
+
+position: absolute;/*定位方式*/
+top: -60px;/*從上往下移動多少*/
+left: 250px;/*從左往右移動多少*/
+color: #F3DB60;/*文字顏色*/
+background-color: #098126;/*背景色*/
+
+}
+
+
+
+.circle2{
+box-sizing: border-box;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+
+/*text-align: center;*/
+padding-top: 60px;
+padding-left: 35px;
+font-size: 0.2em;
+
+position: absolute;
+top: 160px;
+left: 120px;
+color: #FFFFFF;
+background-color: #5BC78E;
+
+}
+
+.circle3{
+box-sizing: border-box;
+width: 330px;
+height: 330px;
+border-radius: 50%;
+
+text-align: center;
+padding-top: 60px;
+font-size: 0.6em;
+
+position: absolute;
+top: 160px;
+left: 290px;
+color: #14A73A;
+background-color: #FFFFFF;
+
+}
+
+.circle4{
+box-sizing: border-box;
+width: 135px;
+height: 135px;
+border-radius: 50%;
+
+padding-top: 25px;
+padding-left: 20px;
+
+position: absolute;
+top: 90px;
+left: 530px;
+background-color: #FFFFFF;
+
+}
+
+
+.circle5{
+box-sizing: border-box;
+width: 65px;
+height: 65px;
+border-radius: 50%;
+
+text-align: center;
+padding-top: 0px;
+font-size: 0.8em;
+
+position: absolute;
+top: 450px;
+left: 850px;
+color: #F3DB60;
+background-color: #5BC78E;
+
+}
+
+.circle6{
+box-sizing: border-box;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+text-align: center;
+padding-top: 60px;
+padding-left: 10px;
+font-size: 0.8em;
+
+position: absolute;
+top: 530px;
+left: 310px;
+color: #FFFFFF;
+background-color: #098126;
+
+}
+
+
+
+.circle7{
+box-sizing: border-box;
+width: 120px;
+height: 120px;
+border-radius: 50%;
+
+text-align: center;
+padding-top: 50px;
+font-size: 0.6em;
+
+position: absolute;
+top: 20px;
+left: 100px;
+color: #FFFFFFF;
+background-color: #FCFFFE;
+
+}
