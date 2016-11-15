@@ -1,0 +1,65 @@
+
+
+
+
+*{
+
+  background-color:#FCFBBF;
+  border: 2px solid #17B6F5;
+  margin: 5px;
+  padding: 10px;
+}
+
+
+
+h1{
+    font-family: sans-serif;
+	color: #1A179D;
+	font-size: 50px;
+}
+
+
+h2{
+    
+	color: #754AD6;
+	font-size: 25px;
+}
+
+
+.green{
+font-family:sans-serif;
+color: #098E24;
+font-size:0.8em ;
+}
+
+.raspberry{
+font-family:Arial;
+color: #AE01A9;
+font-size:1.2em ;
+}
+
+
+.blueberry{
+font-size:1.5em ;
+color: #A92222;
+
+}
+
+/*{font-family:fantasy;
+color: #AD6C35;
+font-size:1.6em;
+}*/
+
+.cranberry{
+text-align:center;
+}
+
+
+
+a:link{ text-decoration: none ; color: #0727A6;}
+
+a:visited {color: #68C13D}
+
+a:hover {color: red}
+
+a:active{color: #F31C8E}
